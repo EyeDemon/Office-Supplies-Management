@@ -1,0 +1,5 @@
+# Created at 2025-11-12T03:42:06.233
+Boot Manifest-JAR contains absolute paths in classpath 'D:\TKXDPM\VS\qlvpp\backend\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
